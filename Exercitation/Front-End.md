@@ -17,6 +17,7 @@
 # 项目经验
 ## 百度前端技术学院
 独立完成 IFE2016 初、中级任务，完成部分高级任务。
+
 现正参与 IFE2017 ，独立完成糯米前端学院中大部分任务，其中困难任务例如 HTML5 音乐播放器 和 在线 Markdown 解析器。
 
 * IFE2016 Github 地址：[https://github.com/pwcong/IFE2016-EXAMS](https://github.com/pwcong/IFE2016-EXAMS)
