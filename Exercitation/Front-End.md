@@ -23,12 +23,23 @@
 * IFE2016 Github 地址：[https://github.com/pwcong/IFE2016-EXAMS](https://github.com/pwcong/IFE2016-EXAMS)
 * IFE2017 Github 地址：[https://github.com/pwcong/IFE2017-EXAMS](https://github.com/pwcong/IFE2017-EXAMS)
 
+## ResumeSys
+独立完成的简历系统，实现用户注册登录，简历创建编辑和 PDF 导出功能。
+
+前端使用 webpack 构建打包项目，运用 React 技术栈进行开发，界面设计使用 Bootstrap 和 FlatUI 。
+后端架构为 Koa + Mongoose，数据库使用 MongoDB + Redis 。
+
+**在完成该项目过程中学会服务器渲染界面以及通过 jsPDF 库导出 HTML 界面为 PDF 文件。**
+
+* Github 地址：[https://github.com/pwcong/resume-sys](https://github.com/pwcong/resume-sys)
+
 ## ToChat （web聊天室）
 独立完成的一个简单的在线聊天室，实现了注册/登陆用户、获取/修改用户信息、聊天室大厅、进入/创建房间等功能。
 
 前端使用 webpack 构建打包项目，运用 React 技术栈进行开发，界面控件使用 Ant Design。
-
 后端架构为 Koa + Mongoose + Socket.IO，数据库使用 MongoDB + Redis
+
+**在完成该项目过程中学会使用 Socket.IO ，熟悉封装 React 自定义组件。**
 
 * Github 地址：[https://github.com/pwcong/tochat](https://github.com/pwcong/tochat)
 
@@ -36,8 +47,9 @@
 独立完成的简单的用户管理系统，前后端分离。实现登录/注册用户，登录状态，用户权限管理，添加/删除用户等功能。
 
 前端使用 webpack 构建打包项目，运用 React 技术栈进行开发，界面控件使用 Ant Design。
-
 后端架构为 Spring + SpringMVC + MyBatis + Ehcache + Druid，数据库使用 MySQL。
+
+**这是我第一个 React 练习项目，在该项目中学会使用 Webpack 构建打包项目和熟悉了前端 React 的开发流程。**
 
 * Github 地址：[https://github.com/pwcong/usersys](https://github.com/pwcong/usersys)
 
@@ -50,6 +62,7 @@
 * JavaScript：掌握
 * HTML/CSS：掌握
 * jQuery： 了解
+* Bootstrap: 了解
 * Node.js：掌握
 * ES6：了解
 * React：掌握
