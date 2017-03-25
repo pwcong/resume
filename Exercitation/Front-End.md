@@ -11,7 +11,7 @@
 
 # 求职期望
 * 期望职位：Web前端工程师 / 实习
-* 期望薪资：2000 - 4000
+* 期望薪资：3000 - 5000
 * 期望城市：广州 / 深圳
 
 # 项目经验
@@ -23,7 +23,7 @@
 * IFE2016 Github 地址：[https://github.com/pwcong/IFE2016-EXAMS](https://github.com/pwcong/IFE2016-EXAMS)
 * IFE2017 Github 地址：[https://github.com/pwcong/IFE2017-EXAMS](https://github.com/pwcong/IFE2017-EXAMS)
 
-## ResumeSys
+## ResumeSys（简历系统）
 独立完成的简历系统，实现用户注册登录，简历创建编辑和 PDF 导出功能。
 
 前端使用 webpack 构建打包项目，运用 React 技术栈进行开发，界面设计使用 Bootstrap 和 FlatUI 。
@@ -33,7 +33,7 @@
 
 * Github 地址：[https://github.com/pwcong/resume-sys](https://github.com/pwcong/resume-sys)
 
-## ToChat （web聊天室）
+## ToChat （Web 聊天室）
 独立完成的一个简单的在线聊天室，实现了注册/登陆用户、获取/修改用户信息、聊天室大厅、进入/创建房间等功能。
 
 前端使用 webpack 构建打包项目，运用 React 技术栈进行开发，界面控件使用 Ant Design。
