@@ -17,16 +17,18 @@
 # 项目经验
 ## 百度前端技术学院
 独立完成 IFE2016 初、中级任务，完成部分高级任务。
-
 现正参与 IFE2017 ，独立完成糯米前端学院中大部分任务，其中困难任务例如 HTML5 音乐播放器 和 在线 Markdown 解析器。
+
+**在参与完成任务的过程中，我不断学习巩固了 HTML/CSS/JavaScript 知识，这也让我有信心做到按照产品设计图快速实现具备兼容性，响应式的页面。**
 
 * IFE2016 Github 地址：[https://github.com/pwcong/IFE2016-EXAMS](https://github.com/pwcong/IFE2016-EXAMS)
 * IFE2017 Github 地址：[https://github.com/pwcong/IFE2017-EXAMS](https://github.com/pwcong/IFE2017-EXAMS)
 
 ## IMG-Hosting
 独立完成的一个公共图库系统，实现用户匿名上传图片获取图片公公地址，用户注册登陆上传管理图片功能。
+前端主要使用 `Vue全家桶`，后端则使用 `Golang` 的 Web 框架 `Echo` 开发，数据库使用 `MySQL` + `Redis`。
 
-前端主要使用 `Vue全家桶`，后端则使用 `Golang` 的 Web 框架 `Echo` 开发。
+**在完成该系统过程中，我学会使用 Vue 进行前端开发，还学到了前后端分离，仅通过接口请求进行数据交互的开发方式，了解并应用了JWT的验证机制。**
 
 * 在线预览地址：[http://ih.pwcong.xyz:8080/](http://ih.pwcong.xyz:8080/)
 * Github 地址：[https://github.com/pwcong/img-hosting](https://github.com/pwcong/img-hosting)
