@@ -28,7 +28,9 @@
 
 前端主要使用 `Vue全家桶`，后端则使用 `Golang` 的 Web 框架 `Echo` 开发。
 
+* 在线预览地址：[http://ih.pwcong.xyz:8080/](http://ih.pwcong.xyz:8080/)
 * Github 地址：[https://github.com/pwcong/img-hosting](https://github.com/pwcong/img-hosting)
+
 
 # 技能清单
 * JavaScript：掌握
@@ -48,6 +50,4 @@
 # 个人评价
 我从小便梦想着当一名程序员。如今，编程成为了我的爱好，但，我更想让她成为我的职业。 
 我学习能力强，接受并乐于接触各种新技术，因此我的技术栈稍微有些广度，但我希望能在贵司中磨砺自己让自己更有深度。
-我认真负责，即使犯错也不会逃避。 
-我生性沉稳，没有棱角。 
 我身体素质好，喜欢跑步，参加过马拉松。
